@@ -1,4 +1,6 @@
-# projeto-4-explorer
+# Página web responsiva
+
+## projeto-4-explorer
 
 Foi desenvolvido uma página web simples aplicando código para que fique responsiva em diversos tamanhos de tela.
 
